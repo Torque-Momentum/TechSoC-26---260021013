@@ -1,4 +1,4 @@
-
+//STILL STATUS EFFECT THING REMAINS......
 #include <iostream>
 #include <vector>
 #include <utility> //required for the pair/tuple function for storage of attack + move_power
